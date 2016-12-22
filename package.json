@@ -11,7 +11,7 @@
     "node-gcm": "^0.14.4",
     "react": "15.4.1",
     "react-native": "0.39.2",
-    "react-native-navigation": "^2.0.0-experimental.155",
+    "react-native-navigation": "github:wix/react-native-navigation#1475739add8df5049cbeb77054f1d21b04e98039",
     "react-native-push-notification": "^2.2.1"
   },
   "devDependencies": {
